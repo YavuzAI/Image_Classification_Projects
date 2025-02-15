@@ -9,8 +9,7 @@ This repository showcases an **image classification project** designed to identi
 2. [Data Overview](#data-overview)  
 3. [Data Preprocessing & Feature Extraction](#data-preprocessing--feature-extraction)  
 4. [Model Architecture](#model-architecture)  
-5. [Usage](#usage)  
-6. [Future Enhancements](#future-enhancements)
+
 
 ---
 
