@@ -20,7 +20,7 @@ This project aims to **classify images of playing cards** into one of **52 possi
 - **Image Loading**: Utilized `ImageDataGenerator` from `tensorflow.keras.preprocessing.image` to read images directly from a directory structure.
 
 **Sample Images**  
-![52 Cards](cards.png)
+![52 Cards](screenshots/cards.png)
 
 The dataset is relatively small for a deep learning task, making transfer learning an ideal strategy to achieve high accuracy without requiring millions of images.
 
@@ -60,8 +60,8 @@ A **Streamlit** application was developed to provide a **user-friendly interface
 2. **Prediction**: The app displays the predicted class (e.g., “Ace of Spades”) and the corresponding confidence level.
 3. **Interactive Visualizations**: Screenshots below show how the app’s layout helps users easily navigate and interpret the model’s outputs.
 
-![Streamlit App 1](st_app1.png)  
-![Streamlit App 2](st_app2.png)
+![Streamlit App 1](screenshots/st_app1.png)  
+![Streamlit App 2](screenshots/st_app2.png)
 
 ---
 
