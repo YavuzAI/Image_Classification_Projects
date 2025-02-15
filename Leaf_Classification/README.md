@@ -58,9 +58,9 @@ A series of steps were taken to ensure the data was consistent, scaled appropria
 A **custom functional API** model was developed to handle the input data effectively. The model processes the **images** through a convolutional stack, while numeric features can be fed into a separate branch. Ultimately, the two branches can be concatenated before the final classification layer. The final output layer corresponds to **99 classes** using an appropriate activation (e.g., softmax).
 
 **Sample Architecture** (screenshots):
-1. ![Architecture Part 1](screenshots/arch1.png)  
-2. ![Architecture Part 2](screenshots/arch2.png)  
-3. ![Architecture Part 3](screenshots/arch3.png)
+![Architecture Part 1](screenshots/arch1.png)  
+![Architecture Part 2](screenshots/arch2.png)  
+![Architecture Part 3](screenshots/arch3.png)
 
 ---
 
